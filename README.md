@@ -1,1 +1,1 @@
-# nanopore-nequencing
+# Nanopore-Sequencing
